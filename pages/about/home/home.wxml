@@ -1,6 +1,6 @@
 <scroll-view scroll-y class="scrollPage">
   <view class="UCenter-bg">
-    <image src="/images/logo.png" class="png" mode="widthFix"></image>
+    <image src="/images/logo.jpg" class="png" mode="widthFix"></image>
     <view class="text-xl">小刘小刘下雨不愁
       <text class="text-df">v1.0</text>
     </view>
