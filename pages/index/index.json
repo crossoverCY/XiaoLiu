@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "son": "/pages/son/son",
+    "about": "/pages/about/home/home"
+  }
+}
