@@ -1,5 +1,5 @@
 .UCenter-bg {
-  background-image: "/images/love.jpg";
+  background-image: url("../../images/love.jpg");
   background-size: cover;
   height: 550rpx;
   display: flex;
