@@ -1,5 +1,5 @@
 .UCenter-bg {
-  background-image: url(http://www.jqdzt.com/cdn/0351tg/img/bg.jpg);
+  background-image: url(https://github.com/crossoverCY/XiaoLiu/blob/main/images/love.jpg?raw=true);
   background-size: cover;
   height: 550rpx;
   display: flex;
